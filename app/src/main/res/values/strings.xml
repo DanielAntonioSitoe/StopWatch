@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My AppStopWatch</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">TextView</string>
+    <string name="stop">STOP</string>
+    <string name="reset">Reset</string>
+    <string name="start">START</string>
+</resources>
